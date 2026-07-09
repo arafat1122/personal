@@ -1,0 +1,64 @@
+{
+  "name": "Arafat Hossen",
+  "tagline": "Data Analyst & Operations Engineer",
+  "bio": "Specializing in statistical computing, operational data pipelines, and analytics infrastructure. Transforming raw transactional data into high-fidelity business intelligence frameworks.",
+  "profile_img": "profile.jpeg",
+  "cv_file": "your-cv.pdf",
+  
+  "skills": [
+    { "name": "Predictive Statistical Modeling", "category": "tools" },
+    { "name": "Quantitative Data Analytics", "category": "tools" },
+    { "name": "Advanced Spreadsheet Architecture", "category": "tools" },
+    { "name": "Data Visualization & Dashboards", "category": "tools" },
+    { "name": "Business Intelligence (BI)", "category": "tools" },
+    { "name": "Semantic HTML5 & Modern CSS3", "category": "frontend" },
+    { "name": "Responsive UI Architecture", "category": "frontend" },
+    { "name": "Asynchronous API Integration", "category": "frontend" },
+    { "name": "Object-Oriented Java Systems", "category": "backend" },
+    { "name": "Structured C Programming", "category": "backend" },
+    { "name": "Algorithm Design & Structures", "category": "backend" }
+  ],
+
+  "experience": [
+    {
+      "role": "Co-Founder & Operations Lead",
+      "company": "Edu'tutors",
+      "duration": "2024 — Present",
+      "bullets": [
+        "Architected foundational operational data structures, streamlining student onboarding and performance telemetry tracking.",
+        "Automated repetitive workflow routines using advanced scripting and macros, reducing manual management latency by 40%.",
+        "Designed comprehensive reporting models used weekly to audit operational workflows, financial projections, and student milestones."
+      ]
+    },
+    {
+      "role": "Freelance Data & Analytics Specialist",
+      "company": "Contract",
+      "duration": "2023 — 2024",
+      "bullets": [
+        "Cleaned and engineered anomalies out of unstructured transactional datasets for small-to-medium enterprise clients.",
+        "Delivered interactive corporate intelligence dashboards, enabling non-technical stakeholders to identify hidden structural bottlenecks."
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "title": "Edu'tutors Operations Architecture",
+      "tech": "Data Pipelines • Spreadsheet Systems • Operations",
+      "description": "Architected the core operational data infrastructure and automated student lifecycle tracking pipelines. Engineered custom financial performance models and macro-driven workflows to systematically scale cross-functional tuition operations.",
+      "link": "https://github.com/arafat1122/scheduler"
+    },
+    {
+      "title": "Enterprise Business Performance Engine",
+      "tech": "Statistical Computing • Analytics • Visualization",
+      "description": "Engineered an end-to-end telemetry system to ingest, clean, and structure high-volume transactional records. Applied advanced multivariate statistical modeling to isolate hidden market trends and deployed crisp executive-level visual dashboards.",
+      "link": " "
+    },
+    {
+      "title": "Automated Automotive Valuation Engine",
+      "tech": "Machine Learning • Predictive Modeling • Regression Analytics",
+      "description": "Engineered an end-to-end predictive valuation system utilizing multivariate regression algorithms to estimate market vehicle pricing. Constructed automated data preprocessing pipelines to handle non-linear feature interactions, structural anomalies, and high-cardinality categorical data, significantly optimizing model pricing accuracy.",
+      "link": "https://github.com/arafat1122/car-price-prediction-project"
+    }
+  ]
+}
